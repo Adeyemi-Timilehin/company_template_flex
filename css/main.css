@@ -1,0 +1,217 @@
+      /* IMPORT FONT */
+      @font-face{
+          font-family: Timik;
+          src: url(../fonts/biorhyme-bold-webfont.woff) format("woff");
+      }
+      /* LAYOUT RESET */
+        body,
+        h1,
+        h2,
+        h3,h4,h5,h6,
+        p {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* General Rules */
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h6{
+            font-size: 18px;   
+        }
+        h4{
+            font-size: 20px;
+            line-height: 34px;
+            font-weight: 500;
+        }
+        h5{
+            font-size: 22px;
+            font-weight:500;
+            line-height: 28px;
+        }
+        p {
+            font-size: 14px;
+            font-weight: 400;
+            color: #242424;
+            line-height: 20px;
+        }
+
+        #container {
+            width: 98%;
+            margin: auto;
+            box-sizing: border-box;
+        }
+        #top_container {
+            background-image: url("../images/iot_voice.PNG");
+            background-color: #02BAFF;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 600px;
+            color: #fff;
+            background-attachment:fixed;
+        
+        }
+        #overlay{
+            height: 600px;
+            background-color: rgba(0,0,0,0.5);
+        }
+        .wrapper-content{
+            padding-top:70px ;
+        }
+        /* #top{
+            position: sticky;
+           top: 0;
+        } */
+        .header-top,#footer { 
+            background-color: #02BAFF;
+            color: white;
+            padding: 10px;
+            margin: 0;
+        }
+        .parent {
+            margin: 70px 100px;
+        }
+
+        .parent-head {
+            font-size: 25px;
+            margin-bottom: 40px;
+        }
+
+        .flex {
+            display: flex;
+
+        }
+
+        .flex-start {
+            justify-content: flex-start;
+        }
+
+        .logo,
+        .icon {
+            margin-top: 10px;
+            width: 15%;
+        }
+        .icon{
+            padding-right: 10px;
+        }
+        .header {
+            font-family: Timik;
+            display: inline;
+            font-style: italic;
+            margin-top: -10px;
+            }
+
+        .list-item {
+            list-style: none;
+        }
+
+        #nav .list-item li {
+            display: inline-block;
+            padding: 0 10px;
+        }
+       .child, .nav .list-item li {
+            line-height: 1.5;
+        }
+        .list-item li a {
+            text-decoration: none;
+            color: #fff;
+            text-transform: capitalize;
+        }
+        .list-item li a.active{
+            background-color: #1781AF;
+            padding:5px;
+            border-radius: 5px;
+            text-transform: uppercase;
+        }
+        .social-links {
+           margin-left: 15%;
+        }
+
+        h2.top_container_head {
+            margin: 40px 150px;
+            font-size: 40px;
+        }
+        button {
+            background-color: transparent;
+            color: #fff;
+            font-size: 18px;
+            border: 2px solid #fff;
+            padding: 10px;
+            margin: 0px 150px;
+        }
+.wrap{
+    flex-wrap: wrap;
+}
+        .flex-d {
+            justify-content: space-around;
+        }
+
+        .flex-f {
+            justify-content: space-between;
+        }
+
+        .padding {
+            padding: 100px 50px;
+            background-color: #F2F2F2;
+            margin: 50px 0;
+        }
+      
+        .padding2 {
+            padding: 100px 0;
+        }
+
+        .parent-content {
+            font-size: 16px;
+            font-weight: lighter;
+            margin-bottom: 50px;
+        }
+        
+  /* Specific Rules */
+
+        .child-2--link {
+            text-decoration: none;
+            color: #fff;
+            background-color: #1174E6;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .child-main{
+            width: 50%;
+            
+        }
+        .child_main_1{
+            width: 40%;
+        }
+        .child {
+            width: 20%;
+        }
+
+        .child-img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .head-size {
+            font-size: 20px;
+            margin: 0;
+            padding: 10px 0;
+        }
+        #footer{
+            padding:30px 20px;
+        }
+        .logo2{
+            width: 50px;
+        }
+        .child{
+            padding-top:2px ;
+        }
+        .align{
+            border-top: 1px solid #fff;
+            width: 75%;
+            margin: auto;
+        }
+      .copyright{
+          margin-top: 10px;
+          text-align: center;
+      }

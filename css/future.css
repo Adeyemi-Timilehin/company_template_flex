@@ -1,0 +1,24 @@
+#future_container{
+    background-image: url("../images/222.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: #fff;
+}
+p.content_p{
+    padding-left: 150px;
+    padding-bottom: 20px;
+}
+.chid-3__content{
+    line-height: 2;
+}
+ .parent-head__f{
+     margin-top: 100px;
+ }
+ .child-main-f{
+     width: 70%;
+ }
+ .child-main-fc{
+    font-style: italic;
+    margin-bottom: 10px;
+}

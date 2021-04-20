@@ -1,0 +1,30 @@
+#top_contact{
+    background-image: url("../images/contact-bg.PNG");
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.pad_contact{
+    padding: 20px;
+    }
+    form {
+        padding:5px;
+    }
+    
+    input {
+        width: 78%;
+        padding: 10px;
+        margin-bottom: 10px;
+        background-color: #F1F1F1;
+        border: none;
+    }
+    
+    [ type="submit"] {
+        margin-top: 5px;
+        background-color: #0dc3df;
+        color: #fff;
+        width: 20%;
+        padding: 10px 50px;
+        border-radius: 10px;
+    }

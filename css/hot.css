@@ -1,0 +1,44 @@
+
+p{
+    line-height: 24px;
+}
+#top{
+    background-image: url("../images/iot.PNG");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.child-2{
+    width: 40%;
+}
+.child-3{
+    width: 50%;
+}
+h5.parent-head{
+    font-size: 20px;
+    color: #111;
+}
+
+.parent-head-hot{
+font-size: 40px;
+padding:10px 0;
+}
+.section-container{
+    margin: 100px 10px;
+}
+.child-section{
+    background-color: #1174E6;
+    padding: 40px ;
+    color: #fff;
+}
+.child_section_para{
+    padding: 50px 5px;
+    color: white;
+}
+.btn{
+    margin: 30px 0;
+}
+.child__img{
+    width: 30%;
+}

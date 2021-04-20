@@ -1,0 +1,397 @@
+Implementing AI: the challenges
+In focus
+How close are we to becoming the Jetsons?
+The 1960s animated sitcom featured flying cars, home robotics, and televiewers. Are we there yet?
+Ericsson launches Open Lab to drive virtualized 5G RAN technologies
+Open Lab enables collaboration and innovation with Cloud RAN customers and partners
+A new type of wireless backhaul in 5G
+An in-depth look at integrated access and backhaul – the promising new solution for 5G New Radio in high bands
+Introducing 5G Core Policy Studio
+A software solution for network programmability that enables quick design and delivery of 5G services.
+5G is the start. What comes next?
+A research angle on future networks
+
+Follow us on the journey
+5G
+5G: made for innovation
+With unprecedented speed and flexibility, our 5G carries more data with greater responsiveness and reliability than ever before.
+
+Discover Ericsson 5G. 
+IoT
+Let's take on IoT together
+To help you realize the full potential of IoT our intelligent tools make it easy to connect and deploy devices across global ecosystems.
+AI & Automation
+Towards zero-touch
+Embracing AI to engineer intelligence in the networks, enabling continuous learning.
+Security
+Telecom security for a connected world
+Your network security plays a critical role in safeguarding our connected societies. Here is how.
+5G evolution and 6G
+5G is built for innovation and evolution. 5G is the most dynamic and flexible generation of mobile connectivity to date, leveraging cloud native applications and core. As a flexible radio interface, the era of 5G will be shaped by many evolutionary leaps within the standard, before we can even begin to look to the next generation. With exponential evolution of key technologies such as AI, automation and data capture, the pace of change will be relentless. This will ultimately determine what will happen next. 
+
+In 2030, society will have been shaped by 5G for 10 years. In our research, we have started the journey towards an exciting vision of what the network will be able to deliver in 2030, exploring the technology components that will make it possible. Follow us to 6G!
+
+Highlights
+A research outlook towards 6G
+This is the right time to initiate advanced research on 6G technology aimed at expanding the capabilities for the needs of 2030. Our vision is that of ever-present intelligent communication.
+
+Read the White paper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versatile Video Coding explained – the future of video in a 5G world
+Many new and emerging 5G use cases will soon require video compression efficiency and functionality that are beyond the capabilities of today’s leading video codecs. Versatile Video Coding – the new video compression coding standard recently approved by the Moving Picture Experts Group and the International Telecommunication Union – includes both improved compression efficiency and new features to enhance support for immersive video and low-delay video coding.
+
+MAGAZINE     #ericssontechnologyreview
+Ericsson CTO Erik Ekudden’s view on recent developments in video compression technology
+Continuous innovation in 5G networks is creating new opportunities for video-enabled services for both consumers and industries, particularly in areas such as the Internet of Things and the automotive sector. These new services are expected to rely on continued video evolution toward 8K resolutions and beyond, and on new strict requirements such as low end-to-end latency for video delivery.
+
+This Ericsson Technology Review article explores recent developments in video compression technology and introduces Versatile Video Coding (VVC) – a significant improvement on existing video codecs that we think deserves to be widely deployed in the market. VVC has the potential both to enhance the user experience for existing video services and offer an appropriate performance level for new media services over 5G networks.
+
+Ericsson Technology Review logo
+October 14, 2020
+
+Authors: Rickard Sjöberg, Jacob Ström, Łukasz Litwic, Kenneth Andersson
+
+Download article as pdf
+Terms and abbreviations
+Blog posts
+What is reduced capability (RedCap) NR and what will it achieve?
+Hexa-X the 6G project
+Early measurements for improved carrier aggregation and dual connectivity setup
+How to tackle fast recovery from radio link failure
+3GPP technologies in unlicensed spectrum: A contributor to the common good
+Articles and reports
+Bluetooth mesh networking
+5G spectrum for local industrial networks
+Critical capabilities for private 5G networks
+5G New Radio evolution
+Breaking the 100 Gbps barrier
+  PDF
+Meeting 5G latency requirements with inactive state
+The advantages of combining 5G NR with LTE
+
+A new generation is awakening
+Emerging applications such as 4K/8K video streaming, virtual and augmented reality and smart industry are hungry for higher bandwidth, greater capacity, security, and lower latency. Are you ready?
+
+Make the switch to 5G
+
+
+Hot Topics
+Internet of Things
+The Internet of Things, or IoT. You’ve heard of it. But what is it, and why is it promising such vast change? Well, imagine everything in our physical world all seamlessly connected, securely connected, everything connected. Even then you're barely close to grasping the potential of IoT.
+IOT'S POTENTIAL
+Everything connected. Everywhere.
+IoT is not separate from the Internet, but an expansion of it - a way of intelligently fusing the real and cyber worlds. By 2050, there will be 24 billion interconnected devices, meaning almost every object us around us: streetlights, thermostats, electric meters, fitness trackers, water pumps, cars, elevators, even gym vests.
+
+These IoT-enabled devices contain sensors that constantly collect and react to data, and this vast level of data can be used to unlock new levels of intelligence.
+
+No limits, except your imagination.
+Every so often, an innovation comes along that leaves those without it behind. IoT is such a game-changer. Because it's not what it IoT is, it's what it has the potential to be. For businesses dreaming of new solutions, the only limits are their imagination.
+
+Ericsson's IoT solutions will help you bridge that gap between possibility and reality. And we’ll do this by supplying the ultimate connector: cellular.
+CELLULAR
+Cellular - the engine of IoT
+Making IoT connections limitless
+If we could lift up the hood of IoT, what’s in the engine?
+
+Cellular. Cellular is the DNA that holds it all together, like the secure welding that forges together the thousands of parts of a car.
+
+It’s the connecting force that powers everything - a technology that supplies the seamless connectivity IoT demands, offering global, borderless coverage that’s both secure and reliable.
+
+And the unlimited connectivity that cellular offers is what’s helping the IoT to power digital transformation of businesses the world over.
+Diggers connected and automated by IoT technology lift their shovels to form the Ericsson icon
+Got a business? We’ve got an IoT solution.
+In a digital world, connections are the lifeblood of your business. But what if they were endless? Then your scale, plans, and ambition could be too.
+
+By harnessing the power of cellular, we'll empower any enterprise to make innovation part of the everyday.
+
+With our IoT solutions, you’ll be able to make operations more efficient, unlock new revenue streams, increase customer engagement, and unlock data-driven insights.
+
+Enterprise offering
+
+
+Making IoT work for you
+Liberating businesses everywhere
+
+The global IoT market is set to be worth $1.5 trillion by 2030.
+
+To avoid being left behind, businesses must choose the road that leads to embracing IoT, to not only survive but thrive in a more fluid and connected future.
+
+Because soon, every business model will be total transformation, and innovation will simply be part of the everyday.
+
+The road to growth for businesses will run a lot smoother with IoT.
+
+Read our latest report
+OUR PORTFOLIO
+The tools for transformation
+To realize the full potential of IoT, you’ll need the right tools to harness it.
+
+Ericsson has created a range of products that will offer the connectivity solutions your business needs to deploy devices globally, and harness IoT for a growing business revenue.
+
+Ericsson's IoT platform is a simple, global ecosystem that helps you turn business concepts into realities, and boost your efficiency, productivity and ultimately, your profitability.
+A proven IoT connection
+At Ericsson, we help mobile network operators tap into the full value of the IoT opportunity.
+
+We do this by enabling CSPs to build their networks and support connected devices through our IoT platforms.
+
+Our cellular IoT portfolio will enable CSPs to capture a larger share of the IoT market, diversify across more industries, and implement more advanced use cases. This means they can expand, capture new revenue, and create new value for their customers undergoing digital transformation.
+
+Evolving Cellular IoT for industry digitalization
+As industries continue to push the boundaries of wireless technologies, new opportunities are opening for service providers within cellular IoT connectivity.
+
+Cellular IoT
+IOT ACCELERATOR DEVELOPER PORTAL
+
+More control. More visibility. More connectivity.
+Now it’s easier for sotware developers to gain more  connectivity and control of their IoT devices using IoT Accelerator. Our communication service provider ecosystem allows them to deploy their IoT apps easily, visibily, and globally. Develop. Connect. Launch.
+
+Head to our Developer Portal to find materials like hands-on tutorials, and immediate access to API descriptions.
+
+Get developing
+Our latest IoT research
+MAR 09, 2021 | Magazine
+
+Ericsson Technology Review 2021 issue 1
+SEP 30, 2020 | Magazine
+
+Ericsson Technology Review 2020 issue 2
+SEP 03, 2020 | White paper
+
+Bluetooth mesh networking
+AUG 11, 2020 | Magazine
+
+Monitoring IoT application performance with Machine QoE
+JUN 02, 2020 | Magazine
+
+Critical IoT connectivity: Ideal for time-critical communications
+CASES
+Now let’s get real
+Case studies of how IoT is empowering enterprises.
+
+A man looking at large screens in a control room overseeing IoT smart meter data
+Telia drives rapid adoption of cellular IoT in smart meters
+Telia removes barriers for smart grids by enabling massive cellular IoT for millions of smart meters. 
+
+Large solar panels on a meadow used to power IoT enabled water pumps
+Stanley Black & Decker roll-out a connected smart irrigation platform
+Smart and connected solar powered water pumps enable energy savings for farmers in India.
+
+A container ship at sea showing one part of a supply chain. IoT technology can drastically improve supply chain visibility.
+Globe Tracker increases supply chain visibility with IoT
+Globe Tracker allows global logistics companies to increase supply chain visibility with T-Mobile Austria and Ericsson.
+
+FEATURED INSIGHTS & EVENTS
+All kinds of devices can be connected with IoT, this parking meter on a busy street is one example.
+Blog post | Know the difference between NB-IoT vs. Cat-M1
+Organizations looking to deploy a very high volume of low-complexity, connected devices, known as Massive IoT, have several options available to them for connectivity.
+
+A disassembled IoT device next to a soldering iron
+Blog post | How to quickly develop cellular IoT devices
+Reality has shown that developing cellular IoT (CIoT) devices has been slow. But now there is a viable solution for enterprises to build CIoT devices and accelerate the uptake quickly, and at the end of the day, grow their business.
+
+A man on a field using a drone to collect data on his crops shows IoT technology applied in agriculture
+Blog post | How 5G and the Internet of Things can create a winning business
+New technologies will impact every market and every industry in a way that many of us have not yet begun to consider. Here is how to make the most of it.
+
+Get in touch
+Let’s talk about what IoT can do for you
+
+Contact Ericsson
+
+FOLLOW ERICSSON IOT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many new and emerging 5G use cases will soon require video compression efficiency and functionality that are beyond the capabilities of today’s leading video codecs. Versatile Video Coding – the new video compression coding standard recently approved by the Moving Picture Experts Group and the International Telecommunication Union – includes both improved compression efficiency and new features to enhance support for immersive video and low-delay video coding.
+
+While the quality of video content depends on several characteristics such as high pixel bit depth, high frame rate, wide color gamut (WCG) and high dynamic range (HDR), it is the resolution (the number of pixels in a video picture) that is most directly associated with the bandwidth required for transmission. Other key factors determining the required bandwidth are related to the type of the video content and the latency with which the content is delivered to the end user.
+
+At the same time, innovations in 5G networks offer new opportunities for video-enabled services for both consumers (remotely rendered virtual/extended reality and cloud gaming, for example) and industries, particularly with respect to the Internet of Things (IoT) and the automotive sector. These new services are expected to rely on continued video evolution toward 8K resolutions and beyond, and on new strict requirements such as low end-to-end latency for video delivery. Since the data rate of such video-enabled services is extremely high, the cost would be prohibitive – even in the most modern networks – unless the video was carried in a compressed format, with the help of a next generation video codec.
+
+Versatile Video Coding (VVC), the new video compression coding standard that will be published as ISO/IEC 23090-3 and ITU-T recommendation H.266, offers the highest compression efficiency available today and is therefore the codec that is best suited to offer a suitable performance level for new media services over 5G networks. It can also enhance the user experience for existing video services by delivering substantially higher quality at the same bitrate.
+
+Alternatively, it can be used to reduce the bitrate (roughly by half) while maintaining the same quality. For some legacy applications, the cost of replacing an older codec such as H.264 with a newer one such as HEVC has not been economically beneficial, since the reduction in bit rate of 40 percent has not compensated for the cost of replacing a large number of set top boxes. Even in some of these cases, the introduction of VVC may change this calculation since the bit rate reduction compared to the older codec is so much greater. Figure 1 provides an overview of potential application areas.
+
+Figure 1: VVC application areas 
+Figure 1: VVC application areas
+
+Video compression options available today
+A video codec, which can be implemented in hardware or software, encodes and/or decodes digital video. Modern video codecs can reduce the bitrate of uncompressed video to less than one percent of the original rate without any noticeable visual quality degradations. The majority of these video codecs have been standardized and published by a standards development organization (SDO).
+
+The most popular and widely deployed codecs include the MPEG (Moving Picture Experts Group) series from ISO/IEC (International Organization for Standardization/International Electrotechnical Commission) and the corresponding H.26x series from the ITU-T (ITU Telecommunication Standardization Sector), which were developed jointly. The naming convention for these codecs is MPEG-2/H.262, AVC/H.264 (Advanced Video Coding) and HEVC/H.265 (High Efficiency Video Coding). Other video codec options include Google’s VP8 and VP9, and the Alliance for Open Media’s AV1.
+
+MPEG-2/H.262
+The MPEG-2 video codec was published in 1994 and is still in wide use today in standard definition digital TV services. Its compression efficiency is low when compared with more recent video codecs. The main reason for using MPEG-2 today is to support existing set-top-boxes, as the cost of replacing these may be higher than any potential savings from a new video codec.
+
+Advanced Video Coding
+AVC/H.264 was published in 2003 and is currently the most widely used video codec. It is supported by practically all mobile devices, is heavily used for video carried over the internet, and is the preferred video codec for HDTV.
+
+High Efficiency Video Coding
+HEVC/H.265 [2] is the successor to H.264 and was published in 2013. Compared with H.264, it delivers the same visual quality at roughly 40 percent lower bitrate. There is widespread support for HEVC across TVs and mobile devices. HEVC has been selected by the DVB (Digital Video Broadcasting) and ATSC (Advanced Television Systems Committee) standards organizations for 4K broadcast services and is recommended by 3GPP for HD (HDR) and 4K mobile streaming.
+
+VP8 and VP9
+On2 Technologies, which was acquired by Google in 2010, released the VP8 video codec in 2008, which then became a proposed royalty-free option in 2013. It has mostly been used as an alternative to H.264 in WebRTC, a framework for real-time web communication. VP9, a successor to VP8, was developed internally at Google and released as open source in late 2012. The use of VP9 for 4K YouTube videos has led to TV manufacturers incorporating VP9 decoding into virtually all 4K TV sets, thereby spreading support of VP9 to a substantial number of devices.
+
+AV1
+In 2015, a group of companies including Amazon, Facebook, Google, Intel, Microsoft and Netflix founded the Alliance for Open Media (AOMedia) with the aim of developing a new royalty-free video codec. The specification for that codec, AV1, was published on January 8, 2019. Although patent reviews were conducted during the development to avoid infringing on third-party intellectual property rights, the patent licensing organization Sisvel announced in March 2019 that it would form a patent pool for AV1. As a result, the royalty-free status of AV1 is uncertain.
+
+Versatile Video Coding – the development process
+Versatile Video Coding (H.266) was standardized in a joint effort by the Video Coding Experts Group of the ITU-T and MPEG of the ISO/IEC and is therefore the latest member of a successful family of video codecs that includes MPEG-2, H.264 and HEVC. In contrast to proprietary alternatives, all four of these video coding standards were developed in an open and collaborative fashion with agreed requirements and timelines.
+
+The development of VVC followed a well-established standardization process, which started with a technology exploration activity in 2015, included a formal call for proposals in 2018 and concluded in July 2020 as a technically frozen standard. The development process involved international stakeholders across the entire media ecosystem: content producers, manufacturers, operators, broadcasters, chipset vendors and academics. Throughout the process, all documentation including technical contributions, draft specification text, reference software and conformance bitstreams were made available publicly.
+
+Ericsson has been an active participant in video standardization for more than 20 years and was closely involved in the development of the VVC standard. Throughout the process, we led several of the core experiments, chaired ad-hoc working groups and made significant contributions to the development of the technology behind the video codec, most notably in the areas of deblocking filtering, reference picture management, low-delay video coding and optimized encoder configurations. We also participated in efforts that made an impact in other areas of the video codec such as intra and inter prediction and adaptive loop filtering.
+
+Key benefits of versatile video coding
+As the latest and most sophisticated video codec to date, VVC offers the highest compression efficiency of all video codecs, and it is particularly appropriate for higher resolution video streams due to its coding tools, which can operate on block sizes of up to 128x128 pixels and with 64x64 sample size transforms. VVC can achieve a reduction in bitrate of around 40 percent for existing HD and 4K services deployed with HEVC, at the same visual quality.
+
+Figure 2 provides a performance comparison between VVC and four other video codecs. The comparison was done by Ericsson Research using various sources of information including in-house testing [3, 4]. The figure shows the approximate relative bitrate requirement for each video codec in order to reach the same video picture quality for HD and 4K content, benchmarked against the HEVC video codec, which is normalized to 100 percent. VVC performs significantly better, requiring only 60 percent of the relative bitrate compared with both HEVC and AV1.
+
+On top of its superior compression performance, the versatility of VVC also makes it an attractive choice beyond mainstream 2D video services. VVC has been designed to handle both traditional camera-captured content as well as the increasingly prevalent computer-generated imagery used in applications such as online gaming, e-sports video streaming and screen-sharing applications.
+
+Figure 2: Relative bitrates for the same video quality
+Figure 2: Relative bitrates for the same video quality
+
+Immersive video
+In contrast to traditional two-dimensional video, where one particular view is captured by a camera, immersive video is video in which every angle is recorded. During playback, which at present typically occurs on a virtual reality (VR) headset, the user is not constrained to a particular view but can look around freely. When the viewer does not change position, this is called three degrees of freedom (3DoF) immersive video, or more commonly 360-degree video.
+
+360-degree video is typically stored in a projection format. One such format is equirectangular projection, which is similar to how the earth is pictured on a world map. A more popular format, however, is cube map projection. Here, each face of the cube represents one-sixth of the sphere area, and the six faces are arranged in one rectangular video picture. This enables the use of two-dimensional video codecs to handle the immersive content.
+
+Due to the nature of the human visual system, a high-quality representation of the full 360-degree video sphere is only needed for the user’s current gaze direction. A well-known technique for exploiting this property is to split the full 360-degree video content into multiple small rectangular regions and only convey and render regions in high quality that cover the area the user is currently looking at, called the viewport. To accommodate fast head motion, video is also transmitted for the non-viewport area, but the quality of that video is much lower.
+
+To that end, and to help with other immersive video applications such as remotely rendered VR, VVC introduces the concept of subpictures, which allows for the efficient extraction and merging of pieces of video of different quality that is a requirement for larger resolution immersive formats. A subpicture is a rectangle within the full video picture that is fully independent of other subpictures and designed to be easy to extract and merge with other subpictures. Previous video codecs provided similar functionality using motion-constrained tile sets, but subpictures are both much more efficient and easier to manage.
+
+The efficiency of the subpicture design comes from built-in adjustments of low-level coding tools, where previous designs require the encoders to be very restrictive. Previous designs also require rewriting of substantial amounts of coded data – a burden that is largely alleviated by the use of subpictures in VVC. The use of subpictures in VVC significantly reduces the complexity of application systems. This capability, together with its superior compression efficiency, makes VVC the best video codec choice for immersive video applications.
+
+Low-delay video coding
+Low-delay video coding is a key technology for certain time-critical video applications such as videoconferencing, cloud gaming and remote control of road vehicles and drones. To reduce the latency caused by excessive data buffering, the video encoder typically aims to generate as smooth a data rate as possible. One well-known video codec feature is gradual decoding refresh (GDR), which provides smooth tune-in points in the bitstream without the need to encode single refresh pictures (intra pictures) that result in bitrate spikes and high latencies. Instead, smooth tune-in points are generated by spreading the refresh across multiple pictures.
+
+GDR has been supported in many older video coding standards such as H.264 and HEVC, but in those cases the feature is conveyed in a supplemental enhancement information (SEI) message, which makes GDR optional. This means that an encoder cannot be certain that the decoders are capable of tuning in at GDR positions. However, during standardization of VVC, an Ericsson proposal to add a GDR picture-type indicator to the standard was adopted. This makes GDR support mandatory in VVC, which ensures decoder interoperability for such low-delay applications.
+
+Besides the GDR feature, VVC also inherited decoding unit (DU) based decoder operation from its predecessor, HEVC. DUs enable an encoder to output a first part of a picture, in a specified controlled manner, without requiring the entire picture to first be encoded. DUs and mandatory GDR support make VVC the prime video codec choice for low-delay video applications.
+
+How VVC works
+It is important to note that the superior coding efficiency of VVC is not due to any single compression tool. Rather, it is the result of combining many tools, each contributing with a small compression improvement. The most significant of these tools are block partitioning, advanced inter prediction, dependent quantization, adaptive loop filtering and improved deblocking filtering. The addition of sophisticated new coding tools has also had an impact on computational complexity. As a result of these developments, it is expected that VVC decoder complexity will be around twice that of HEVC.
+
+Block partitioning
+Similar to its predecessors, VVC uses a block-based hybrid coding architecture. A video codec based on such an architecture does not code pixel values directly but instead predicts and codes only error information to compensate for the inaccurate prediction. The process runs on blocks of pixels rather than the entire picture, since this makes it possible to adjust to local video picture characteristics, minimizing the prediction error. For video codecs based on such an architecture, an efficient picture partitioning scheme is pivotal to achieving high compression efficiency.
+
+In VVC, each picture is split into non-overlapping squares called coding-tree units (CTUs). The largest CTU size allowed in VVC is 128x128 pixels, larger than the 64x64 maximum size allowed in HEVC. Large blocks improve the efficiency of coding flat areas such as backgrounds, especially for high-resolution videos such as HD and 4K. In order to efficiently represent highly detailed areas such as textures and edges, VVC employs a flexible partitioning scheme that can partition 128x128-sized CTUs down to coding units (CUs) as small as 4x4 pixels.
+
+The scheme is based on two parts. The first is the quaternary tree (quad tree) split that is also available in HEVC, which can recursively split CTU into squared CUs down to 4x4 pixels, smaller than the 8x8 minimum CU size in HEVC. The second part consists of binary-tree and ternary-tree splits that partition a block into two and three rectangles respectively. Both binary and ternary tree splits can operate in either horizontal or vertical directions, be recursively applied and mixed together in a nested multi-type tree.
+
+Figure 3 provides an example of the partitioning of a close-up section of a picture. HEVC block partitioning (at top right) uses quaternary-tree split with coding blocks up to 64x64 pixels. VVC block partitioning (at bottom right) uses quaternary-tree split with coding blocks up to 128x128 pixels and nested multi-type tree split employing binary and ternary tree splits.
+
+The block partitioning in VVC is highly flexible and provides about 8 percent bitrate reduction over HEVC [5]. However, this flexibility comes at a computational cost, especially on the encoder side, where many more permutations need to be evaluated to select the optimal partition.
+
+Figure 3: Comparison of the partitioning of a close-up section of a video picture in HEVC and VVC
+Figure 3: Comparison of the partitioning of a close-up section of a video picture in HEVC and VVC
+
+Advanced inter prediction
+One of the most efficient bit-saving techniques in video compression is inter-picture prediction (more commonly referred to as inter prediction), which simply means copying sample values from previously coded pictures. The information about where to copy from – the horizontal and vertical displacement for a block – is stored in what is called a motion vector. Techniques that improve inter prediction are responsible for a substantial part of the bitrate reduction between VVC and HEVC.
+
+While many techniques have been used to achieve the advanced inter prediction in VVC, five of them are particularly noteworthy: the affine motion model, adaptive motion vector resolution, bi-directional optical flow, decoder side-motion vector refinement and geometric partitioning mode. The precision of the motion vectors has also been increased to 1/16 pixel compared to the quarter pixel resolution of HEVC.
+
+In previous video coding standards, it has been possible to compensate for translational motion; that is, the decoder can be instructed to fetch sample values not from the same place in a previous image but rather from another position (1.75 pixels to the left, for example). In VVC, the affine motion model tool makes it possible to specify not only distance but also rotation and zoom, which can save a lot of bits for sequences containing such motion.
+
+Another bit-saving technique in VVC is the ability to vary the precision of the motion vectors. For example, the encoder can signal to the decoder that the incoming motion vectors are in integer or four-times-integer resolution. This can save bits when predicting smooth areas where the exact sub-pixel precision does not give much image improvement over integer precision and also when representing large motion vectors.
+
+The advanced inter prediction in VVC further exploits the fact that in some cases motion information does not have to be explicitly transmitted (as motion vectors) but can instead be inferred from similarly moving parts of the picture. For example, the bi-directional optical flow tool in VVC can infer motion vectors by measuring the optical flow in reference pictures and the decoder side-motion vector refinement can infer motion vectors by minimizing differences between reference pictures.
+
+Finally, the advanced inter prediction in VVC also exploits motions of non-rectangular shapes to better align with the shape of moving objects. This means that one half of the block can have one motion vector and the other half of the block can have another with the halves separated by a single geometrical line that is determined by an angle and an offset.
+
+Dependent quantization
+The quantizer is a core part of a video codec that is directly linked to operational control of video bitrate and visual quality. By adjusting the quantization step, the encoder controls the fidelity of the error signal (transform coefficients), which is then coded with an entropy coder and sent in the video bitstream.
+
+Previous standards such as HEVC have used a scalar quantizer but since the entropy coder processes each transform coefficient in a coding block in sequential order, there was an inherent inefficiency if the quantization level of each coefficient were to be determined independently. To optimize the determination of quantization levels within a block, sophisticated encoders use an algorithm called trellis quantization.
+
+In VVC, dependent quantization has been introduced, where the codec can switch between two shifted quantizers and thereby reduce the quantization error. In the VVC design, the quantization levels for a given transform coefficient depend on the values of the preceding quantized coefficients. To use this tool effectively, an encoder therefore needs to evaluate how the determined quantization level for each coefficient impacts both the bit count and the total reconstruction error for the whole block. In this way, the dependent quantization removes the inefficiency of quantizing coefficients independently and thereby provides a substantial bit-reduction over HEVC.
+
+Adaptive loop filtering
+The adaptive loop filter (ALF) is a new in-loop filter in VVC. ALF scans the picture after it has been decoded and selectively applies (on a CTU basis) one of several two-dimensional finite impulse response filters before the picture becomes output or is used for prediction. The video encoder calculates the sets of filter coefficients that will lead to the smallest error and transmits those to the video decoder. ALF has the ability to clean up artifacts in the picture and also contributes to a substantial bit-reduction over HEVC.
+
+Improved deblocking filtering
+VVC and its predecessors HEVC and H.264 are all block-based video codecs. The downside of the block-based approach is that it can give rise to “block artifacts” – visible edges at some block borders. Deblocking filtering is an approach to reduce these artifacts by selectively smoothing across the block boundaries. The deblocking filtering in VVC is based on the HEVC deblocking filtering, for which Ericsson was the leading contributor. On top of this already strong base, VVC is capable of using longer deblocking filters, where major parts were designed by Ericsson. The long deblocking filters allow for stronger deblocking that can be more effective in hiding block artifacts, especially for larger blocks (128x128 sized blocks, for example) in relatively smooth areas. The long deblocking filters contribute significantly to the improved subjective quality of VVC compared to HEVC.
+
+What’s next for VVC?
+In today’s competitive video codec landscape, video compression performance is key to successful market adoption, but it is not the sole determining factor. Availability of the technology is critical, especially the availability of hardware-accelerated decoders in chipsets and processors. A recent prediction from a major chipset vendor stated that first commercial VVC shipments could start as soon as 2021. Software-based solutions are typically faster to roll out and are essential especially in the early phases of deployment across the ecosystem. In the case of VVC, the first demonstrations of real-time software decoders took place shortly before the standard was completed.
+
+Since video codecs do not operate in a silo, support and interoperability across the ecosystem in terms of media delivery protocols and application specifications are required. Some of the SDOssuch as MPEG and IETF are looking into providing support for carriage of VVC in their respective media transport specifications. Organizations such as 3GPP and DVB are investigating VVC in the context of next-generation services including 5G-enabled ones such as 8K (7680x4320 video) and 360-degree video VR streaming. Unlike its predecessors, the first version of the VVC standard includes support for a broad range of applications across the media ecosystem, which is likely to have a positive impact on the cost of deployment and interoperability of VVC-based solutions and services.
+
+In order to facilitate cross-industry discussion around non-technical aspects of VVC deployment such as licensing, marketing and interoperability activities, Ericsson and other industry leaders launched the Media Coding Industry Forum (MC-IF) in 2018. Since then, MC-IF has hosted a series of workshops and events to gather wider industry input on commercial aspects that may further early VVC adoption. In particular, timely availability of licensing terms for VVC was established as one of the key factors for VVC deployment. To this end, shortly after the finalization of VVC development, MC-IF initiated fostering efforts for a patent pool program essential to VVC.
+
+Conclusion
+Versatile Video Coding represents state-of-the art video coding and is certain to play an important role in supporting a wide range of 5G use cases. Designed to manage the high demand that increasing amounts of video poses on networks, our research reveals that VVC achieves the best available compression performance at a computational complexity suitable for implementation in both software and hardware. As one of the main contributors to VVC, we believe its deployment will significantly reduce the data rates of existing video services as well as serving as a primary enabler for next-generation media services.
+
+References
+Ericsson Mobility Report, June 2020
+Ericsson Technology Review, Next generation video compression, April 24, 2013, Fröjdh, P; Norkin, A; Sjöberg, R
+2019 Picture Coding Symposium (PCS), Ningbo, China, 2019, pp. 1-5, Compression Performance of the Versatile Video Coding: HD and UHD Visual Quality Monitoring, Sidaty, N. et al.
+ResearchGate, SMPTE Motion Imaging Journal, vol. 128, no. 10, pp. 14-24, Nov.-Dec. 2019, Analysis of Emerging Video Codecs: Coding Tools, Compression Efficiency and Complexity, J. L. Tanou and M. Blestel
+IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, issue 5, pp. 1311-1325, May 2020, doi: 10.1109/TCSVT.2019.2945048, A VVC Proposal With Quaternary Tree Plus Binary-Ternary Tree Coding Block Structure and Advanced Coding Techniques, Y. Huang et al.
+Receive the latest industry insights straight to your inbox
+Subscribe to Ericsson Technology Review
+
+Subscribe here
+
+Further reading
+Person using VR at home
+Cutting the bitrate with Versatile Video Coding
+The development of video compression will be key to enabling tomorrow’s Ultra HD (8K resolution), VR/AR and 360° video technologies. Below, we follow the progress of the Versatile Video Coding standard which, when finalized in 2020, is expected to reduce the bitrate by roughly half.
+
+MCIF presenters
+Industry Forum to promote Versatile Video Coding
+Video is the single most important data traffic driver in mobile networks. According to the latest Ericsson Mobility report it is forecast to grow by 45 percent annually to account for 73 percent of all mobile data traffic in 2023. This is why video compression is key to Ericsson and a great motivation for our research team contributing to the emerging Versatile Video Coding (VVC) standard in the Moving Picture Experts Group (MPEG).
+
+Authors
+Rickard Sjöberg
+Rickard Sjöberg
+is an expert in video compression at Ericsson Research where he currently works as a technical lead in video coding research. He joined Ericsson in 1996 and has contributed several hundred proposals for the ITU-T and MPEG video-coding standards. In addition, he has worked in product development related to video coding at Ericsson, including six months at Ericsson Television in Southampton in the UK. Sjöberg holds an M.S. in computer science from KTH Royal Institute of Technology in Stockholm, Sweden.
+
+Jacob Ström
+Jacob Ström
+is a principal researcher at Ericsson Research with a focus on video compression. He joined Ericsson in 2001 and has contributed to standardization in the area of high dynamic range video as well as to the standardization of both HEVC and VVC. He is coauthor of more than 120 granted patents and has a similar number of patents pending. Ström holds a Ph.D. in image coding from Linköping University, Sweden, and has been a visiting Ph.D. student at the University of California San Diego and the Massachusetts Institute of Technology (MIT) in the US.
+
+Lukasz Litwic
+Lukasz Litwic
+is a research leader at Ericsson Research. He joined Ericsson Television in 2007, where he worked on various aspects of image processing and video compression research, which formed the foundation of Ericsson real-time broadcast encoding products. In 2017, he joined Ericsson Research in Stockholm, Sweden, where he leads the Visual Technology team. He holds an M.S. from Gdansk University of Technology, Poland, and a Ph.D. from the University of Surrey, in Guildford in the UK.
+
+Kenneth Andersson
+Kenneth Andersson
+is a senior specialist in video coding at Ericsson Research. He joined Ericsson in 1994 to work on speech coding and since 2005 has been active in video coding standardization in ITU-T and ISO/IEC for development of HEVC and VVC. He holds an M.Sc. in computer science and engineering from Luleå University in Sweden and a Ph.D. from Linköping University.

@@ -1,0 +1,27 @@
+
+/* General Rules */
+p{
+    line-height: 24px;
+}
+#container_about{
+    width: 90%;
+    margin: auto;
+}
+#top_about {
+    background-image: url("../images/about_bg.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: #fff;
+
+}
+/* Specific Rules */
+.pad_child{
+    padding:0 50px;
+}
+.about{
+    margin:100px 40px;
+}
+.child-p{
+    margin-bottom: 20px;
+}
